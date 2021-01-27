@@ -1,5 +1,9 @@
 # Graph-Framework
 
-This repository is used during the practice classes of "Graphe et algorithmes" course in IMT Atlantique.
+Pour executer Djikstra :
 
-This is a standard maven project so please use the according import option in your IDE (IntelliJ IDEA or Eclipse).
+Allez dans src/main/java/Djikstra et executez le fichier Djikstra.java
+
+Pour executer Bellmanford :
+
+Allez dans src/main/java/Belmanford et executez le fichier Bellmanford.java
